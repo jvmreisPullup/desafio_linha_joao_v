@@ -1,0 +1,4 @@
+ponte_h.c:27:6:start_motor_1	24	static
+ponte_h.c:39:6:start_motor_2	24	static
+ponte_h.c:55:6:start_motor_1_2	24	static
+ponte_h.c:80:6:stopt_motor	8	static
